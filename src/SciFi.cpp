@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948 - SCE
+//Elad Sapir - SCE
 #include "SciFi.h"
 //start of constructor 
 SciFi::SciFi(const char* Tname, const int YP, const int tLVL) :Product(MOVIEPRICE, Tname), Movie(YP)//product gets the price and name, movie gets the year

@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948 - SCE
+//Elad Sapir - SCE
 #include "childBook.h"
 //start of constructor
 ChildBook::ChildBook(const char* Name,const int numberPage,const int yearP,const int minimumAge):Product((float(numberPage/2.0)),Name),Book(numberPage,yearP)

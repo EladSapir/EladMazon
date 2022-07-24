@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948 - SCE
+//Elad Sapir - SCE
 #include <iostream>
 using namespace std;
 #include "System.h"//will include all the necessary headers

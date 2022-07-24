@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948 - SCE
+//Elad Sapir - SCE
 #include "Client.h"
 //constructor
 Client::Client(const Shop* mainShop)

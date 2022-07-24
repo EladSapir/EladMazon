@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948 - SCE
+//Elad Sapir - SCE
 #include "MusicAlbum.h"
 
 //start of constructor with default values

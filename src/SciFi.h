@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948 - SCE
+//Elad Sapir - SCE
 #define _CRT_SECURE_NO_WARNINGS
 #pragma once
 #ifndef SCIFI_H

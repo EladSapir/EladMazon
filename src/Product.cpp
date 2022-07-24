@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948 - SCE
+//Elad Sapir - SCE
 #include "Product.h"
 
 int Product::SerNum = 1;//static serial number

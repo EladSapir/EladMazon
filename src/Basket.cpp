@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948 - SCE
+//Elad Sapir - SCE
 #include "Basket.h"
 
 int Basket::SerNum = 1;//serial number of baskets - first starts with 1

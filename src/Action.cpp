@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948 - SCE
+//Elad Sapir - SCE
 #include "Action.h"
 //start of constuctor and default constructor
 Action::Action(const char* Tname, const int YP, const int aLVL) :Product(20, Tname), Movie(YP)

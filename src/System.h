@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948 - SCE
+//Elad Sapir - SCE
 #pragma once
 #define _CRT_SECURE_NO_WARNINGS
 #include "Client.h"
